@@ -36,8 +36,8 @@ body {
   color: #707070;
 }
 .input-box input {
-  height: 100%;
-  width: 100%;
+  height: 90%;
+  width: 90%;
   outline: none;
   font-size: 18px;
   font-weight: 400;
